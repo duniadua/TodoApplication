@@ -1,3 +1,5 @@
+## Built Status Application
+[![Build Status](https://travis-ci.org/duniadua/TodoApplication.svg?branch=master)](https://travis-ci.org/duniadua/TodoApplication)
 ##Sample Todo Application based on Laravel PHP Framework
 
 Todo Application ini adalah contoh dari pembuatan aplikasi CRUD (Create Read Update Delete) dengan tujuan
