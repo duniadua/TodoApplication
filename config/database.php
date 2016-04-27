@@ -54,10 +54,10 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_HOST', 'localhost'),
-            'database'  => env('DB_DATABASE', 'todo'),
-            'username'  => env('DB_USERNAME', 'root'),
-            'password'  => env('DB_PASSWORD', 'adismemble'),
+            'host'      => env('DB_HOST', 'mysql://baeaddaa7d2e10:3300cdfb@us-cdbr-iron-east-03.cleardb.net/heroku_b76378b3882d39d?reconnect=true'),
+            'database'  => env('DB_DATABASE', 'heroku_b76378b3882d39d'),
+            'username'  => env('DB_USERNAME', 'baeaddaa7d2e10'),
+            'password'  => env('DB_PASSWORD', '3300cdfb'),
             'charset'   => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix'    => '',
