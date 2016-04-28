@@ -82,7 +82,7 @@ return [
       | Available Settings: "single", "daily", "syslog", "errorlog"
       |
      */
-    'log' => 'single',
+    'log' => 'errorlog',
     /*
       |--------------------------------------------------------------------------
       | Autoloaded Service Providers
